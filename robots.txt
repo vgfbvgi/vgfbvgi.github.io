@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://vgfbvgi.github.io/sitemap.vgfbvgi.gz
+Sitemap: https://vgfbvgi.github.io/app/sitemap.vgfbvgi.gz
+Sitemap: https://vgfbvgi.github.io/assets/sitemap.vgfbvgi.gz
+Sitemap: https://vgfbvgi.github.io/css/sitemap.vgfbvgi.gz
+Sitemap: https://vgfbvgi.github.io/data/sitemap.vgfbvgi.gz
+Sitemap: https://vgfbvgi.github.io/includes/sitemap.vgfbvgi.gz
+Sitemap: https://vgfbvgi.github.io/item/sitemap.vgfbvgi.gz
+Sitemap: https://vgfbvgi.github.io/src/sitemap.vgfbvgi.gz
